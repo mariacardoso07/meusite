@@ -1,10 +1,14 @@
 body {
-    background-color:green;
+     color: white
 }
 
-a { 
-    color: white;
-}
+    ul {
+        display: flex;
+        justify-content: space-berween;
+        align-style-type: nome;
+        align-items: center;
+
+    }
 
 
 
